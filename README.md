@@ -11,7 +11,7 @@
   <p class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto">
     <pre> <code></code>https://cdimage.kali.org/kali-2023.2/kali-linux-2023.2a-installer-amd64.iso</pre></p>
     
-  <a href=" https://youtu.be/miUxbctDStw "> How to install Kali Linux iso? </a>
+  <a href="https://youtu.be/miUxbctDStw"> How to install Kali Linux iso? </a>
   <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto">
     <pre> <code>https://youtu.be/miUxbctDStw</code> </pre>
   </div>
